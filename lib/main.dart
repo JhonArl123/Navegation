@@ -6,6 +6,8 @@ import 'package:practicarnavegation/micuenta.dart';
 import 'b2.dart';
 import 'Notificiones.dart';
 
+
+ //probando git
 void main() {
   runApp(const MainApp());
 }
